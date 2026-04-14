@@ -19,8 +19,10 @@ O sistema foi construído utilizando as seguintes tecnologias:
 
 ##  Instruções para Execução
 
-Para visualizar este projeto em sua máquina local, siga os passos abaixo:
+Para visualizar este projeto em sua máquina local, copie o link e cole no navegador de sua preferência:
 
- **Clone o repositório:**
+    [ti-store.vercel.app](https://ti-store.vercel.app/)
+
+ **Link do repositório:**
 ```bash
 git clone [https://github.com/iguinnmr/TI-Store](https://github.com/iguinnmr/TI-Store)
